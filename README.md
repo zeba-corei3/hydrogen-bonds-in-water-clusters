@@ -19,7 +19,7 @@ In a hydrogen-bonded water cluster, a hydrogen atom covalently bonded to one oxy
 **Reactivity & Molecular Entrapment:** Differences in molecular electrostatic potential (MESP) across cluster geometries influence reactivity toward electrophiles or metal ions, and cage-like structures can be relevant to molecular entrapment.
 
 
-## 3. Research
+## 2. Research
 
 Based on the presentation slides (project aiming to measure the stability of water isomers with respect to hydrogen bonds in a cluster, specifically examining $(H<sub>2</sub>O)<sub>n</sub>$ for $n=10\text{–}20$ at the MP2 level using Cartesian coordinate databases such as Ahirwar et al., 2022):
 
@@ -34,11 +34,11 @@ Define clear criteria for identifying hydrogen bonds across the target scope of 
 ####(iii). **Find Hydrogen Bonds:** Enumerate the hydrogen bonds in the water clusters according to the established criteria.
 
 
-### 3.a. Analysis Criterion
+### 2.a. Analysis Criterion
 **Project-Level Criterion:** The project focuses on **counting hydrogen bonds** using defined structural/identification criteria (verified and compared with visualization in Avogadro) and **comparing hydrogen bond counts against cluster stabilization energy** to assess isomer stability.
 
 **Interatomic distances and angles**, such as $\text{H}\cdots\text{O}$ distance ($r<sub>{O\cdots H}$, noted around $2.0\text{ \AA}$ within an expected $1.7\text{–}2.45\text{ \AA}$ range for structure 7A), neighboring oxygen–oxygen distance ($r<sub>{O\cdots O}$, around $2.8\text{ \AA}$ for 7A), bridged vs. free $\text{O}-\text{H}$ distances ($r<sub>{O-H<sub>b}$ vs. $r<sub>{O-H<sub>f}$), $\angle\text{OHO}$ angles, and $\angle\text{HOH}$ angles.
 
 
-### 3.b. Hydrogen Bond Rings — Their Importance
+### 2.b. Hydrogen Bond Rings — Their Importance
 **Core Structural Building Blocks:** Cyclic structures—especially **tetrameric (4-membered)** and **pentameric (5-membered)** rings—are central motifs in water clusters. Many of the most stable geometries for $n=8\text{–}20$ arise from fusing or stacking tetrameric and/or pentameric rings (forming cuboids, linear cuboids, fused pentamers, or hybrid structures).
